@@ -6,7 +6,6 @@ In this series with RA365, we will cover
 1. Python data types
 1. Python objects and variables
 1. Python operators; arithmetic(unary and binary), relational and logical
-1. Statement in python (assignment and augmented)
 1. Conditional construct(if, if-else, if-elif-else) , conditional expression
 ### Iterable and data structures
 1. Structures and features of tuples, list, set and dictionary 
