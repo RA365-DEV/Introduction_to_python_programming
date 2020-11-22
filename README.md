@@ -8,13 +8,12 @@ In this series RA365 we will cover, all listed below through Joseph Itopa A.
 1. Python operators; arithmetic(unary and binary), relational and logical
 1. Conditional construct(if, if-else, if-elif-else) , conditional expression
 ### Iterable and data structures
-1. Structures and features of tuples, list, set and dictionary 
-1. Common methods of the above data structures
-1. Iterating items in data structure using for-loop
-1. Switching Data structures
-1. List comprehension
-1. Searching in data structures
-1. Using zip, enumerate, map and sorted methods
+1. Introduction to python language
+1. Iterables and Data structures
+1. Functions or method definition
+1. Object Oriented Programming in python
+1. Introduction Python Libraries For AI
+1. More Python built-in Functions
 ### Functions or method definition
 1. Python function signature and definition
 1. function parameter , argument, return statement, calling function 
