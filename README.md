@@ -1,5 +1,5 @@
 # Introduction to python programming
-In this series with RA365, we will cover
+In this series RA365 we will cover, all listed below through Joseph Itopa A.
 
 ### Understanding python programming language
 1. Python as interpreted Language
